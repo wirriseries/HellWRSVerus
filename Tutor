@@ -1,0 +1,15 @@
+# CPU SRBMiner
+wget https://github.com/wirriseries/SRBMiner-Multi/releases/download/V.01/SRBMiner-Multi-0-5-4.tar.gz
+
+
+# EXTRACT FILE
+tar -xvf SRBMiner-Multi-0-5-4.tar.gz
+
+
+# OPEN DIRECT
+cd SRBMiner-Multi-0-5-4
+
+
+# RUN
+screen -S 1 ./start_verluck.sh
+# FINISH
