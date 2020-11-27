@@ -1,13 +1,13 @@
 # CPU SRBMiner
-wget https://github.com/wirriseries/SRBMiner-Multi/releases/download/V.01/SRBMiner-Multi-0-5-4.tar.gz
+wget https://github.com/wirriseries/SRBMiner-Multi/releases/download/V.01/SRBMiner-Multi-0-5-5.tar.gz
 
 
 # EXTRACT FILE
-tar -xvf SRBMiner-Multi-0-5-4.tar.gz
+tar -xvf SRBMiner-Multi-0-5-5.tar.gz
 
 
 # OPEN DIRECT
-cd SRBMiner-Multi-0-5-4
+cd SRBMiner-Multi-0-5-5
 
 
 # RUN
